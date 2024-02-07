@@ -1,0 +1,16 @@
+name: FlightMasterPlugin
+version: '1.0-SNAPSHOT'
+main: com.example.flightmasterplugin.FlightMasterPlugin
+api-version: '1.20'
+authors: [FlqmeJP]
+description: You will be able to fly in survival.
+website: https://github.com/FlqmeJP/FlightMasterPlugin
+commands:
+  fly:
+    usage: /fly <player>
+    description: フライ権限を有効にします。
+
+  unfly:
+    usage: /unfly <player>
+    description: フライ権限を無効にします。
+
