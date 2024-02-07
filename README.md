@@ -3,12 +3,12 @@
 ### Flight plugin for use with Minecraft plugin servers.
 
 ## usage
-### /fly <player> 
+### /fly [player]
 ## description
 ### You can fly in survival mode!
 
 ## usage
-### /unfly <player>
+### /unfly [player]
 ### Stop Flightmode
 
 
